@@ -78,3 +78,14 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+**THEORETICAL CALCULATION**
+
+
+**OBSERVATION TABLE:**
+
+
+**RESULT:**
+Thus , the thevinin's theorem verified both theoretically and practically.
+
+ **MARK SPLIT-UP:**
